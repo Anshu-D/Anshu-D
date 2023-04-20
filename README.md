@@ -13,11 +13,9 @@ I'm Anshu Dhiman a data scientist/data analyst with a passion for solving comple
 
 🌱 I’m currently learning advance ML and AI with IIIB's Executive PG Programme in Machine Learning and AI   
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
 
-<p align='center'>
+
+
 # Education
 I hold a Bachelor's degree in Computer Science from University of Delhi. During my time at university,I completed courses in mathematics, computer science, and machine learning.In addition to that i have done certificate courses in Python,SQL,Power BI, ML. To Have a good grip i successfully completed several projects that involved data analysis and visualization and building models using ML.
 
