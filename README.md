@@ -1,5 +1,23 @@
-Hi, I'm, a data scientist/data analyst with a passion for solving complex problems through data analysis.I'm excited to bring my skills and enthusiasm to a professional setting and make a real impact.Let's talk!
+### hey there
+
+<a href="https://www.linkedin.com/in/anshu-dhiman/">
+  <img align="left" alt="Anshu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/anshu__dhiman/">
+  <img align="left" alt="Anshu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<br />
+I'm Anshu Dhiman a data scientist/data analyst with a passion for solving complex problems through data analysis.I'm excited to bring my skills and enthusiasm to a professional setting and make a real impact.Let's talk!
+
 🌱 I’m currently learning advance ML and AI with IIIB's Executive PG Programme in Machine Learning and AI   
+
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
+
+<p align='center'>
 # Education
 I hold a Bachelor's degree in Computer Science from University of Delhi. During my time at university,I completed courses in mathematics, computer science, and machine learning.In addition to that i have done certificate courses in Python,SQL,Power BI, ML. To Have a good grip i successfully completed several projects that involved data analysis and visualization and building models using ML.
 
