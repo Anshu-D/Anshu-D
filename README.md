@@ -14,6 +14,10 @@ I'm Anshu Dhiman a data scientist/data analyst with a passion for solving comple
 🌱 I’m currently learning advance ML and AI with IIIB's Executive PG Programme in Machine Learning and AI   
 
 
+![Datta_quote]()
+
+
+
 
 
 # Education
