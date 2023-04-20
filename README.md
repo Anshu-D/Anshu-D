@@ -26,6 +26,8 @@ Machine learning libraries: Scikit-learn, TensorFlow, Keras
 Data visualization tools: Power BI
 Database management: MySQL
 
+<img src="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif" alt="Data Quote" width="500" height="300"/>
+
 # Projects
 During my education, I completed several hands-on projects that demonstrate my skills as a data scientist/data analyst. Some of my notable projects include:
 
@@ -33,9 +35,7 @@ During my education, I completed several hands-on projects that demonstrate my s
 
 [Project Title]: In this project, I analyzed the performance of a marketing campaign for a financial services company. I used SQL to extract data from a database and Python, Pandas, and Matplotlib to clean, transform, and visualize the data. I identified key insights and made recommendations to improve future marketing campaigns.
 
-![Datta_quote](https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif)
 
-<img src="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif" alt="Data Quote" width="500" height="300"/>
 
 <!--
 **Anshu-D/Anshu-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
