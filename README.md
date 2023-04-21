@@ -44,7 +44,7 @@ I have experience working with the following tools and technologies:
 
 
 ## Projects
-During my education, I completed several hands-on projects that demonstrate my skills as a data scientist/data analyst. Some of my notable projects include:
+I completed several hands-on projects that demonstrate my skills as a data scientist/data analyst. Some of my notable projects include:
  
  <a href="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif"><img width="300" height="200" align='right' src="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif"></a>
 </p>
