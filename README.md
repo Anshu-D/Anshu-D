@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there.I am Anshu Dhiman🎓</h1>
 
-I'm Anshu Dhiman a data scientist/data analyst with a passion for solving complex problems through data analysis.I'm excited to bring my skills and enthusiasm to a professional setting and make a real impact.Let's talk! 
+I'm a data scientist/data analyst enthusiast with a passion for solving complex problems through data analysis.I'm excited to bring my skills and enthusiasm to a professional setting and make a real impact.Let's talk! 
 
  <img align="right" alt="GIF" src="https://github.com/Anshu-D/Anshu-D/blob/main/Digital-Marketing-Write-For-Us.gif" width="400" height="220" />
 
@@ -20,7 +20,7 @@ I'm Anshu Dhiman a data scientist/data analyst with a passion for solving comple
 <br>
 
 
-## Tools and Technologies
+## Tools and Technologies 🛠️
 I have experience working with the following tools and technologies:
 
 - **Programming languages**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,9 +55,10 @@ I completed several hands-on projects that demonstrate my skills as a data scien
 
 [Project Title]: In this project, I analyzed the performance of a marketing campaign for a financial services company. I used SQL to extract data from a database and Python, Pandas, and Matplotlib <br> to clean, transform, and visualize the data. I identified key insights and made recommendations to <br> improve future marketing campaigns.
 
- 
-[![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu-D&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+ ## 📈 GitHub Stats
+[![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu-D&show_icons=true&theme=dracula&show_icons=true&line_height=34&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu-D&theme=dracula&langs_count=10)
+![Anshu's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshu-D&theme=dracula)
 
 
 <!--
