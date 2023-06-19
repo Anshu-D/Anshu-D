@@ -48,12 +48,14 @@ I completed several hands-on projects that demonstrate my skills as a data scien
  
  <a href="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif"><img width="300" height="200" align='right' src="https://github.com/Anshu-D/Anshu-D/blob/main/20230421_0238445.gif"></a>
 </p>
-
-[Project Title]: This project involved using machine learning algorithms to predict customer churn for a telecommunications company. I used Python, Pandas, and Scikit-learn to preprocess the data and train several machine learning models. I then compared the performance of each model to determine the best one for the task.
-<p>
  
+[Lending_Club_CaseStudy]: This project involved data cleaning , preprocessing , EDA and visualisation to find the driving variables on a loan default . I used Python, Pandas, and Numpy to preprocess the data and matplotlib and seaborn for visualisation. I  draw out important actionables and the factors that influence BAD Loans which leads huge losses to the company. Communicating these insights would definitely help Lending CLub reduce risky loans.
 
-[Project Title]: In this project, I analyzed the performance of a marketing campaign for a financial services company. I used SQL to extract data from a database and Python, Pandas, and Matplotlib <br> to clean, transform, and visualize the data. I identified key insights and made recommendations to <br> improve future marketing campaigns.
+ This project involved using machine learning algorithms to predict customer churn for a telecommunications company. I used Python, Pandas, and Scikit-learn to preprocess the data and train several machine learning models. I then compared the performance of each model to determine the best one for the task.
+
+
+[Bike_Sharing_Linear_Regression]:  This project involved using machine learning algorithm- Linear Regression to predict demand of the shared bikes in American Market. I used Python, Pandas, and Scikit-learn to preprocess the data and train several machine learning models. I then compared the performance of each model to determine the best one for the task.
+
 
  ## 📈 GitHub Stats
 [![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshu-D&show_icons=true&theme=dracula&show_icons=true&line_height=34&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -76,4 +78,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Education
 I hold a Bachelor's degree in Computer Science from University of Delhi. During my time at university,I completed courses in mathematics, computer science, and machine learning.In addition to that i have done certificate courses in Python,SQL,Power BI, ML. To Have a good grip i successfully completed several projects that involved data analysis and visualization and building models using ML.
+
+In this project, I analyzed the performance of a marketing campaign for a financial services company. I used SQL to extract data from a database and Python, Pandas, and Matplotlib <br> to clean, transform, and visualize the data. I identified key insights and made recommendations to <br> improve future marketing campaigns.
 -->
