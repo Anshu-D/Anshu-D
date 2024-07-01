@@ -9,9 +9,8 @@ I'm a data scientist/data analyst enthusiast with a passion for solving complex 
 - 💬 ask me about anything, i am happy to help;
 - ⚡ Fun fact: ...i did a google search for 15 mins to write something funny here...xD
 
-
 <a href="https://www.linkedin.com/in/anshu-dhiman/">
-  <img align="left" alt="Anshu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anshu's Linkedin" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 
 <a href="https://www.instagram.com/anshu__dhiman/">
